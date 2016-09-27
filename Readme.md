@@ -19,5 +19,9 @@ Code Snippet:
 ###Related Tableau 10 Products:
 
  * [Learning Tableau](https://www.packtpub.com/big-data-and-business-intelligence/learning-tableau?utm_source=github&utm_medium=repository&utm_content=9781784391164) 
+ 
+ * [Mastering Tableau 10 [Video]](https://www.packtpub.com/big-data-and-business-intelligence/mastering-tableau-10-video?utm_source=github&utm_medium=repository&utm_content=9781786463531)
+ 
+ * [Tableau 10 Business Intelligence Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/tableau-10-business-intelligence-cookbook?utm_source=github&utm_medium=repository&utm_content=9781786465634)
 
 
