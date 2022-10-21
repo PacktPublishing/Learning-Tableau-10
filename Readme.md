@@ -25,3 +25,7 @@ Code Snippet:
  * [Tableau 10 Business Intelligence Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/tableau-10-business-intelligence-cookbook?utm_source=github&utm_medium=repository&utm_content=9781786465634)
 
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781786466358">https://packt.link/free-ebook/9781786466358 </a> </p>
